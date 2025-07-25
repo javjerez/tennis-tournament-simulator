@@ -29,13 +29,13 @@ A basic players.txt file is required
 
 You will need a basic 'players.txt' file to get started.
 
-- The structure for each player is:
+The structure for each player is the following:
 
 ```txt
 <INITIALS> <ABILITY> <SPEED> <MATCHES_WON> <MATCHES_LOST>
 ```
 
-The program stops reading when it finds "XXX". Here is a sample of the 'players.txt' file:
+The program stops reading when it finds "XXX", here is a sample of the 'players.txt' file:
 
 ```txt
 JJR 3 4 0 0
