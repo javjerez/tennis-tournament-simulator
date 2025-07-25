@@ -22,7 +22,6 @@ To compile and run the project, you'll need a **C++ compiler**.
 g++ -o tennis TENIS_TOURNAMENT_JJR.cpp
 
 ./tennis
-`
 ```
 
 A basic players.txt file is required
