@@ -16,7 +16,7 @@ Despite being in a single file with no modularization, this project focused on:
 
 ### 🛠️ Requirements
 
-To compile and run the project, you'll need a **C++ compiler**.
+To compile and run the project, a C++ compiler is required. The project can be compiled with the following instruction:
 
 ```bash
 g++ -o tennis TENIS_TOURNAMENT_JJR.cpp
