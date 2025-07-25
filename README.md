@@ -19,7 +19,7 @@ Despite being in a single file with no modularization, this project focused on:
 To compile and run the project, a C++ compiler is required. The project can be compiled with the following instruction:
 
 ```bash
-g++ -o tennis TENIS_TOURNAMENT_JJR.cpp
+g++ -o tennis tennis_tournament.cpp
 
 ./tennis
 ```
