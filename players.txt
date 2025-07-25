@@ -1,0 +1,7 @@
+FED 4 2 1 12 
+NAD 4 4 5 3 
+DJO 3 4 4 2 
+SER 4 3 3 4 
+MUR 2 3 2 6 
+MED 3 2 1 5 
+XXX
