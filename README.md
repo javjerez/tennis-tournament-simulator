@@ -24,10 +24,7 @@ g++ -o tennis TENIS_TOURNAMENT_JJR.cpp
 ./tennis
 ```
 
-A basic players.txt file is required
-
-You will need a basic 'players.txt' file to get started.
-
+A basic 'players.txt' file is required, if the file does not exist, it is automatically created.
 The structure for each player is the following:
 
 ```txt
