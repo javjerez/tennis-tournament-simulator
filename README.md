@@ -3,30 +3,42 @@ A simple C++ console based tennis tournament simulator created as part of a firs
 
 # 🎾 Tennis Tournament Simulator
 
-This project was developed as part of one of my first university courses in Computer Engineering. It's a C++ console-based simulation of a tennis tournament, allowing players to be registered, matches to be simulated, and statistics to be displayed.
+This project was developed as part of one of my first university courses in Computer Science. It is a C++ console based simulation of a tennis tournament, allowing players to be registered, simulate matches and provide statistics about each amtch.
 
-## 📌 Features
+## Features
+
+Despite being in a single file with no modularization, this project focused on:
 
 - Register and store tennis players.
 - Simulate matches between two players.
-- Ball hitting and player movement based on ability and probability.
-- Full tennis scoring system (15, 30, 40, advantage, etc.).
+- Ball hitting and player movement based on probability adn ability points.
 - ASCII-based court visualization.
 - Detailed match statistics.
 
-## 🚀 How to Run
+## How to Run
 
 ### 🛠️ Requirements
 
 To compile and run the project, you'll need a **C++ compiler**.
 
-### 🪟 Windows 11 Instructions
-
-1. Install **[MinGW](http://mingw.org/)** or **[WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install)** to get `g++`.
-
-2. Add MinGW to your PATH if not already added.
-
-3. Compile the code using the included Makefile:
+```bash
+g++ -o tennis TENIS_TOURNAMENT_JJR.cpp
 
 ```bash
-make
+./tennis
+
+A basic players.txt file is required
+
+You will need a basic 'players.txt' file to get started.
+
+- The structure for each player is: <INITIALS> <ABILITY> <SPEED> <MATCHES_WON> <MATCHES_LOST>
+
+The program stops reading when it finds "XXX". Here is a sample of the 'players.txt' file:
+
+```bash
+JJR 3 4 0 0
+ABC 2 3 0 0
+XYZ 4 4 0 0
+XXX
+
+
