@@ -45,7 +45,8 @@ XXX
 ## Author
 
 **Javier Jerez Reinoso**  
-Computer Science engineer 
+Computer Science engineer
+
 Final Project, Programming Fundamentals
 
 ---
