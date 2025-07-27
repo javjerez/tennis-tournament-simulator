@@ -1,6 +1,6 @@
 # 🎾 Tennis Tournament Simulator
 
-This project was developed as part of one of my first university courses in Computer Science. It is a C++ console based simulation of a tennis tournament, allowing players to be registered, simulate matches and provide statistics about each amtch.
+This project was developed as part of one of my first university courses in Computer Science. It is a C++ console based simulation of a tennis tournament, allowing players to be registered, simulate matches and provide statistics about each match.
 
 ## Features
 
@@ -39,5 +39,15 @@ ABC 2 3 0 0
 XYZ 4 4 0 0
 XXX
 ```
+
+---
+
+## Author
+
+**Javier Jerez Reinoso**  
+Computer Science engineer 
+Final Project, Programming Fundamentals
+
+---
 
 
