@@ -47,7 +47,7 @@ XXX
 **Javier Jerez Reinoso**  
 Computer Science engineer
 
-Final Project, Programming Fundamentals
+> Final Project, Programming Fundamentals
 
 ---
 
