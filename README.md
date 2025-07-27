@@ -1,4 +1,4 @@
-# 🎾 Tennis Tournament Simulator
+# 🎾 Tennis Tournament Simulator (C++)
 
 This project was developed as part of one of my first university courses in Computer Science. It is a `C++` console based simulation of a tennis tournament, allowing players to be registered, simulate matches and provide statistics about each match.
 
