@@ -1,6 +1,6 @@
 # 🎾 Tennis Tournament Simulator
 
-This project was developed as part of one of my first university courses in Computer Science. It is a C++ console based simulation of a tennis tournament, allowing players to be registered, simulate matches and provide statistics about each match.
+This project was developed as part of one of my first university courses in Computer Science. It is a `C++` console based simulation of a tennis tournament, allowing players to be registered, simulate matches and provide statistics about each match.
 
 ## Features
 
@@ -16,7 +16,7 @@ Despite being in a single file with no modularization, this project focused on:
 
 ### 🛠️ Requirements
 
-To compile and run the project, a C++ compiler is required. The project can be compiled with the following instruction:
+To compile and run the project, a `C++` compiler is required. The project can be compiled with the following instruction:
 
 ```bash
 g++ -o tennis tennis_tournament.cpp
@@ -24,14 +24,14 @@ g++ -o tennis tennis_tournament.cpp
 ./tennis
 ```
 
-A basic 'players.txt' file is required, if the file does not exist, it is automatically created.
+A basic `players.txt` file is required, if the file does not exist, it is automatically created.
 The structure for each player is the following:
 
 ```txt
 <INITIALS> <ABILITY> <SPEED> <MATCHES_WON> <MATCHES_LOST>
 ```
 
-The program stops reading when it finds "XXX", here is a sample of the 'players.txt' file:
+The program stops reading when it finds `XXX`, here is a sample of the `players.txt` file:
 
 ```txt
 JJR 3 4 0 0
